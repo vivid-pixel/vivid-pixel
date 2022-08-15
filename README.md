@@ -3,3 +3,5 @@
 - 🌱 Currently learning PureBasic (https://purebasic.com) for fun, and studying Algebra on a path to learn Calculus.
 - 📫 You can send me some electronic mail: admin at vividpixel dot co.
 - I had some substantial Java projects here that were created while earning my degree, but I was asked by a faculty member to make the repositories private.
+
+Avatar image from https://www.freepik.com/premium-vector/trail-motocross-pixel-art-style_21055512.htm
